@@ -32,7 +32,7 @@ body {
 
 .multi-color {
   /* background:linear-gradient(212deg, #970094 0%, #84E2FC 100%) no-repeat 50% 50% / 100% 100%; */
-  background:linear-gradient(310deg, #970094 0%, #84E2FC 100%) no-repeat 50% 50% / 100% 100%;
+  background: linear-gradient(310deg, #239e95 0%, #78d483 100%) no-repeat 50% 50% / 100% 100%;
   /* background: linear-gradient(27deg, #BAC6D1 45%, #8A6D9F 100%) no-repeat 50% 50% / 100% 100%; */
   /* background-color: #bac6d1; */
   min-height: 100vh;
